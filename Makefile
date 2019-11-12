@@ -13,5 +13,5 @@ run-cli:
 
 .PHONY: run-flask
 run-flask:
-	export FLASK_APP=main/app; \
+	export FLASK_APP=src/app; \
 	flask run
