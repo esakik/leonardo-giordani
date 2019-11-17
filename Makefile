@@ -11,6 +11,6 @@ dependencies:
 run-cli:
 	python cli.py
 
-.PHONY: run-flask
+.PHONY: run-app
 run-app:
 	python app.py
