@@ -1,13 +1,13 @@
-from src.domain import room
+from src.domain import room as r
 
 
 class MemRepo:
+
     def __init__(self, data):
         self.data = data
 
     def list(self, filters=None):
-
-        result = [room.Room.from_dict(i) for i in self.data]
+        result = [r.Room.from_dict(i) for i in self.data]
 
         if filters is None:
             return result

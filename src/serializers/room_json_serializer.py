@@ -2,7 +2,6 @@ import json
 
 
 class RoomJsonEncoder(json.JSONEncoder):
-    """Roomモデルをシリアライズするクラス."""
     def default(self, o):
         try:
             to_serialize = {

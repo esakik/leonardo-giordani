@@ -8,7 +8,6 @@ class Room:
 
     @classmethod
     def from_dict(cls, adict):
-        """辞書型からRoomモデルを初期化するメソッド."""
         return cls(
             code=adict['code'],
             size=adict['size'],
@@ -18,7 +17,6 @@ class Room:
         )
 
     def to_dict(self):
-        """Roomモデルを辞書型に変換するメソッド."""
         return {
             'code': self.code,
             'size': self.size,
