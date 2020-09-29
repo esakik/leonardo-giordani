@@ -10,6 +10,6 @@ Download from [Leanpub](https://leanpub.com/clean-architectures-in-python).
 - 3.7.2
 
 ## Notes
-- [Chapter 1 - Components of a clean architecture](https://esa-pages.io/p/sharing/13096/posts/77/e9555c80213e3a06c79d.html)
-- [Chapter 2 - A basic example](https://esa-pages.io/p/sharing/13096/posts/78/87195b8d27503c153e86.html)
-- [Chapter 3 - Error management](https://esa-pages.io/p/sharing/13096/posts/79/f7d9081d5eed242e9160.html)
+- [Chapter 1 - Components of a clean architecture](https://www.notion.so/Chapter-1-d59d83faf9fa40bf85030b6d5797b172)
+- [Chapter 2 - A basic example](https://www.notion.so/Chapter-2-b4c84383927240d08152df088fbc9214)
+- [Chapter 3 - Error management](https://www.notion.so/Chapter-3-64f6c9c8f1794e5cb6d951d811937712)
